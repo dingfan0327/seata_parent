@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61aff078-23a3-48cf-855e-bfa89c66124c" name="Default Changelist" comment="feat: by dingfan 修改文档" />
+    <list default="true" id="61aff078-23a3-48cf-855e-bfa89c66124c" name="Default Changelist" comment="feat: by dingfan 修改文档">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/seata.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/seata.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +55,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Spring Boot.DebitApplication (1)">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="tcc_credit" />
       <option name="VM_PARAMETERS" />
@@ -177,7 +194,7 @@
       <workItem from="1647846716714" duration="1673000" />
       <workItem from="1647850217547" duration="577000" />
       <workItem from="1647850809310" duration="2682000" />
-      <workItem from="1647856129937" duration="327000" />
+      <workItem from="1647856129937" duration="1218000" />
     </task>
     <task id="LOCAL-00001" summary="docs : by dingfan 提交文档">
       <created>1647847296396</created>
